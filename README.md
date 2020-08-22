@@ -2,13 +2,15 @@
 
 This repository contains 3 folders which contains various sub-folders as projects, on which I am currently working.
 
-* Natural Language Processing
-  * [x] check_spam_msgs_using_nltk
+### <u>Projects</u>
+
+* <b>Natural Language Processing</b>
+	* [x] check_spam_msgs_using_nltk
   
   
   
-* Supervised Machine Learning
+* <b>Supervised Machine Learning</b>
+	* [x] irir_classification_using_voting_classifier 
 
 
-
-* Unsupervised Machine Learning
+* <b>Unsupervised Machine Learning</b>
